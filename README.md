@@ -1,5 +1,10 @@
 # assembly programming practice
 
+## 0. How To Use (example)
+> nasm -f elf64 asm1.s
+
+> ld -o asm1 asm1.o
+
 ## 1. asm1
 
 Socket Programming using asm
